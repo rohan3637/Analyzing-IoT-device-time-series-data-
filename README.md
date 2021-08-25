@@ -1,5 +1,4 @@
-# Child-Safety
-Motion detection using sensor data
+# Motion detection using sensor data
 
 # Tasks:
 -The stated task is "Use ML model to determine when a Person is near to IoT Device based on reading recorded on device's sensors.
