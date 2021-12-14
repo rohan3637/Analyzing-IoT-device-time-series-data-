@@ -29,7 +29,7 @@
 
 -Lets find out if there are any daily patterns the data
 
--Lets see if there are any significant differences between the sensor time series between the three locations
+-Lets see if there are any significant differences between the sensor time series between the three locations:
 
 -Attempt to define thresholds/confidence intervals/clustering on windows of time series data to define plausible "humans are nearby" intervals (i.e corresponding to light/motion/atmospheric/temperature changes)
 
